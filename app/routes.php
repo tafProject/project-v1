@@ -16,6 +16,6 @@ Route::get('/', function()
 	return View::make('hello');
 });
 
-Route::get('about',function(){
-return 'hamza';
+Route::get('about', function(){
+  return 'Hamza haniixxx';
 });
